@@ -1,0 +1,14 @@
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\bin\Debug\QuebraLinha.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\bin\Debug\QuebraLinha.exe.manifest
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\bin\Debug\QuebraLinha.application
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\bin\Debug\QuebraLinha.exe
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\bin\Debug\QuebraLinha.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.frmPrincipal.resources
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.TrustInfo.xml
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.exe.manifest
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.application
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.exe
+c:\users\pedro\documents\visual studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.pdb
+C:\Users\Pedro\Documents\Visual Studio 2015\Projects\QuebraLinha\QuebraLinha\obj\Debug\QuebraLinha.csprojResolveAssemblyReference.cache
